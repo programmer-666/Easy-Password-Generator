@@ -1,2 +1,5 @@
 # Easy-Password-Generator
-Easy Password Generator. Easy and password and generator...
+It's a basic password generator works with JavaScript and Bootstrap based UI.
+
+## How To Use
+Just open `index.htm`;
